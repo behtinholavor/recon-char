@@ -1,0 +1,12 @@
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\x86\leptonica-1.78.0.dll
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\x86\tesseract41.dll
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\x64\leptonica-1.78.0.dll
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\x64\tesseract41.dll
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\recon-char.exe.config
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\recon-char.exe
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\recon-char.pdb
+C:\_projects\personal\net\recon-char\recon-char\bin\Debug\Tesseract.dll
+C:\_projects\personal\net\recon-char\recon-char\obj\Debug\recon-char.csproj.CopyComplete
+C:\_projects\personal\net\recon-char\recon-char\obj\Debug\recon-char.exe
+C:\_projects\personal\net\recon-char\recon-char\obj\Debug\recon-char.pdb
+C:\_projects\personal\net\recon-char\recon-char\obj\Debug\recon-char.csprojAssemblyReference.cache
