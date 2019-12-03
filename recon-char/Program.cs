@@ -10,10 +10,10 @@ namespace recon_char
 
         static void Main(string[] args)
         {
-            var img = @"C:\_projects\personal\net\recon-char\files-char\number-image.png";
-            //var img = @"C:\_projects\personal\net\recon-char\files-char\card-image.png"; **
-            //var img = @"C:\_projects\personal\net\recon-char\files-char\binary-image.png"; **
-            //var img = @"C:\_projects\personal\net\recon-char\files-char\order-image.png";
+            //var img = @"C:\_projects\personal\net\recon-char\files-char\number-image.png";
+            //var img = @"C:\_projects\personal\net\recon-char\files-char\card-image.png";
+            //var img = @"C:\_projects\personal\net\recon-char\files-char\binary-image.png";
+            var img = @"C:\_projects\personal\net\recon-char\files-char\order-image.png";
 
             try
             {
